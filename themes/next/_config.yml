@@ -307,7 +307,7 @@ font:
   global:
     external: true
     family: Lato
-    size: 16
+    size: 14
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6).
   # Fallback to `global` font settings.
@@ -333,7 +333,7 @@ font:
   codes:
     external: true
     family:
-    size:
+    size: 14
 
 
 # ---------------------------------------------------------------
